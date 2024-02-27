@@ -1,4 +1,35 @@
-
+.jmbtrn {
+    background-color: rgb(224, 224, 224);
+    image-rendering: auto;
+    padding: 30px;
+    
+}
+.title {
+    color: black;
+}
+.pos {
+    color: black;
+}
+.navbar {
+    background-color: lightskyblue;
+}
+.card-img-top {
+    width: auto; 
+}
+.row {
+   margin-top: 15px;
+   margin-bottom: 15px;
+   margin-left: 15px;
+   margin-right: 15px;
+}
+.card {
+  margin: 0px;
+  text-align: center;
+}
+.pp {
+    color: white;
+    text-align: center;
+}
 /* 
 
     You can write your own styles here...
